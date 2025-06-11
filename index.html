@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Intern-F Chatbot</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background: linear-gradient(to right, #f9f9f9, #e6e6ff);
+    }
+    h1 {
+      margin-bottom: 30px;
+      font-size: 2rem;
+      color: #4b0082;
+    }
+    df-messenger {
+      --df-messenger-bot-message: #e0e0e0;
+      --df-messenger-button-titlebar-color: #4b0082;
+      --df-messenger-chat-background-color: #ffffff;
+      --df-messenger-font-color: #fff;
+      --df-messenger-send-icon: #4b0082;
+      --df-messenger-user-message: #b266ff;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Intern-F Chatbot 💬</h1>
+
+  <df-messenger
+    intent="WELCOME"
+    chat-title="Intern-F_Chatbot"
+    agent-id="7e1e31ad-c2a0-4319-b31f-4efd72b95a84"
+    language-code="en"
+  ></df-messenger>
+
+  <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+</body>
+</html>
