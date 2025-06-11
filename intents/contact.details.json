@@ -1,0 +1,43 @@
+{
+  "id": "41abc1e6-60cc-454d-9c2f-8b0305147dbb",
+  "name": "contact.details",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "asked_something",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can reach Micro Information Technology Services via email at: contact@microits.com",
+            "For any queries, feel free to email us at contact@microits.com or call us at +91-1234567890",
+            "We\u0027re available Monday to Friday, 10 AM – 6 PM IST. You can also fill out the contact form on our website: www.microits.com/contact",
+            "For internship or application-related questions, drop us a line at hr@microits.com 📧"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

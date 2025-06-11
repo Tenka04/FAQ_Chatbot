@@ -1,0 +1,38 @@
+{
+  "id": "ac0f065d-70ff-4ddb-80db-7bb2a6548d07",
+  "name": "internship.apply",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great! You can apply for internships by visiting our Careers page at Micro Information Technology Services. Fill out the form and upload your resume.",
+            "To apply, go to our internship portal at Micro Information Technology Services. Make sure to include your resume and a short cover letter.",
+            "You’re just one step away! Head over to Micro Information Technology Services and complete the internship application form.",
+            "We’re excited you\u0027re interested! Check the open roles on our Careers page and apply directly: Micro Information Technology Services"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

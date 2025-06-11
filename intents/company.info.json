@@ -1,0 +1,58 @@
+{
+  "id": "d4846e03-5f8c-418c-a122-4df4cd694009",
+  "name": "company.info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "asked_something",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a1b48b9a-c2e7-44af-8ece-58b200d42c3f",
+          "name": "unit-length-name",
+          "required": false,
+          "dataType": "@sys.unit-length-name",
+          "value": "$unit-length-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Micro Information Technology Services is a forward-thinking tech company dedicated to delivering cutting-edge solutions in AI, software development, and IT infrastructure.",
+            "We specialize in providing internship opportunities, customized software solutions, cloud services, and technical consulting — all with a strong focus on learning and innovation.",
+            "At Micro Information Technology Services, we believe in empowering students and businesses with smart, scalable, and impactful digital tools.",
+            "Our mission is to bridge the gap between education and industry by providing hands-on tech experience, real-world projects, and expert mentorship."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

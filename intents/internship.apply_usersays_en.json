@@ -1,0 +1,132 @@
+[
+  {
+    "id": "3e053301-02bf-452a-8754-ba94e5f3bb23",
+    "data": [
+      {
+        "text": "Let me apply for internship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db1512cd-d4a9-4d95-90dc-466ce6444636",
+    "data": [
+      {
+        "text": "I\u0027m ready to apply",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55d2b1e5-c6b5-4718-b23f-1b6a27f49a68",
+    "data": [
+      {
+        "text": "What\u0027s the procedure to apply?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bac5ba6f-ed97-445e-b629-440b1a000897",
+    "data": [
+      {
+        "text": "Is there a form to apply for internships?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c00ef1db-1abb-4638-a7a3-e95c9b4edc39",
+    "data": [
+      {
+        "text": "How can I send my application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7cd25d0-8717-48d0-b34e-98abd47f8b84",
+    "data": [
+      {
+        "text": "Can I apply now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f8a6ebc-6d1b-4776-932f-5dc7e5c355e8",
+    "data": [
+      {
+        "text": "Application process for internship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ce40691-20ed-42dd-99bd-08ad5a651c09",
+    "data": [
+      {
+        "text": "Where can I submit my resume?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69ceadfe-8730-46a9-93b3-a9db644f9523",
+    "data": [
+      {
+        "text": "I want to apply",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40b0c519-d8f8-4872-8f1e-199a781972c0",
+    "data": [
+      {
+        "text": "How do I apply for an internship?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

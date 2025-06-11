@@ -1,0 +1,42 @@
+{
+  "id": "39f95cb7-5b17-42a2-87e1-67550e2454b9",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello! 👋 I\u0027m here to help you with internships, application processes, and information about our organization. What would you like to know?",
+            "Hi there! 😊 I can assist you with FAQs related to internships, how to apply, and more. Ask me anything!",
+            "Welcome! 💼 Interested in internship details, application steps, or general info? I’ve got you covered.",
+            "Hey! I’m your info assistant. Type your question to get started."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

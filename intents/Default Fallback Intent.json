@@ -1,0 +1,38 @@
+{
+  "id": "9761a304-1747-42f5-a799-ff8fef178e51",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I didn’t catch that. Maybe ask me something about internships or the application process?",
+            "Oops! That wasn’t clear. Want to ask about internship opportunities or how to apply?",
+            "Hmm, I’m not sure I understand. Can you try saying it differently?",
+            "Sorry, I didn’t get that. Could you please rephrase?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

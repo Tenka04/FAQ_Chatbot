@@ -1,0 +1,44 @@
+{
+  "id": "5bdcb0dc-4881-479c-abea-ed89a5f00063",
+  "name": "internship.details",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "asked_something",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes! We offer internships in AI/ML, Web Development, and UI/UX Design. They typically run for 8–12 weeks during the summer.",
+            "Our internship programs are designed for students and recent grads, providing hands-on experience and mentorship from our teams.",
+            "You can check available internships and apply directly on our Careers page",
+            "We have internship roles across multiple departments. Let me know which field you\u0027re interested in!",
+            "\"We offer internships in software development, AI/ML, and data analytics. What else do you want to know"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "c0175ec3-e7a1-43ea-8f64-18d4fe049c05",
+    "data": [
+      {
+        "text": "How can I talk to someone from your team?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77384ff0-4c62-41ae-b948-79a4b3bb2533",
+    "data": [
+      {
+        "text": "Give me your contact information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e570ffe-37ce-403a-ac0b-8de0650b8efc",
+    "data": [
+      {
+        "text": "Contact details?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbb9c7fb-c009-4d72-8e60-1a9b464e50af",
+    "data": [
+      {
+        "text": "How do I get in touch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f967329-1baa-4f24-abbd-02b3b44e9f4f",
+    "data": [
+      {
+        "text": "Phone number please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfe216e1-509b-4ba2-b67d-b8707089476b",
+    "data": [
+      {
+        "text": "Where can I send a message?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68e32b4a-4a1c-47c5-aa78-b45655dbed39",
+    "data": [
+      {
+        "text": "How do I reach Micro Information Technology Services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98a1bcc6-704e-42e5-9456-2c162d07a647",
+    "data": [
+      {
+        "text": "What is your email?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d75e231b-ec4d-4280-9593-b9eef9bfee48",
+    "data": [
+      {
+        "text": "Give me your contact info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68948a02-10bc-4303-b023-420ca6234c54",
+    "data": [
+      {
+        "text": "How can I contact you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

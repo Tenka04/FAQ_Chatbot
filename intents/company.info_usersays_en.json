@@ -1,0 +1,142 @@
+[
+  {
+    "id": "c01da8ab-4462-41d3-985a-d74cbbd91b24",
+    "data": [
+      {
+        "text": "What services do you offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51dbe30e-03f0-4d49-8826-2a8d5beb8e8c",
+    "data": [
+      {
+        "text": "What is Micro IT Services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "402ec05d-565f-474c-9bff-66a8ce2ec92e",
+    "data": [
+      {
+        "text": "What\u0027s the company mission?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "664014f0-12bc-41e9-b775-b537efc2ad7f",
+    "data": [
+      {
+        "text": "Company overview",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "753743d4-dd36-4023-aa4f-2459f1abe604",
+    "data": [
+      {
+        "text": "Tell me about the organization",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4135e4c9-d7c4-4596-aabb-840839815ca1",
+    "data": [
+      {
+        "text": "What does your company do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81a2501c-7166-4229-82fd-d061be3cc80c",
+    "data": [
+      {
+        "text": "Who are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fe359dc-1538-42ed-9a72-178e00642f09",
+    "data": [
+      {
+        "text": "Give me company information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2fd86ba-531a-473b-bc68-37762088b1d2",
+    "data": [
+      {
+        "text": "What is Micro Information Technology Services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cb2ab5f-c996-4615-9a4c-d668dcb357b9",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Micro",
+        "meta": "@sys.unit-length-name",
+        "alias": "unit-length-name",
+        "userDefined": false
+      },
+      {
+        "text": " Information Technology Services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

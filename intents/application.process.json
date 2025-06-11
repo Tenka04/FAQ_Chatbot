@@ -1,0 +1,43 @@
+{
+  "id": "152ce043-9bc1-4263-8235-959a88f2f4c8",
+  "name": "application.process",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "asked_something",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You’ll need to fill out an application form online and upload your resume. We also recommend including a brief cover letter to stand out.",
+            "Sure! To apply, visit our official Careers page at Micro IT Services, select your desired role or internship, and complete the form with your details and resume.",
+            "Head to Micro IT Services, select the opportunity you\u0027re interested in, and submit your application through the portal. You\u0027ll receive a confirmation email afterward.",
+            "Our application process includes resume screening, a technical test, and a personal interview. What else do you want to know?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

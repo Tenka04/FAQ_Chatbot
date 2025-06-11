@@ -1,0 +1,40 @@
+{
+  "id": "a627b239-064d-4b32-be1c-a5ced0050a60",
+  "name": "keep.conversation.ongoing",
+  "auto": true,
+  "contexts": [
+    "asked_something"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What else do you want to know?",
+            "Is there anything else I can help you with?",
+            "Feel free to ask about internships, the company, or the application process",
+            "Let me know if you have any other questions."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
